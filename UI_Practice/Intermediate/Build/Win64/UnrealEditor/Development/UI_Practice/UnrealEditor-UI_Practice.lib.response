@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UI_Practice.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UI_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UnrealEditor\Development\UI_Practice\AmmoActor.cpp.obj"
+"D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UnrealEditor\Development\UI_Practice\UI_Practice.cpp.obj"
+"D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UnrealEditor\Development\UI_Practice\AmmoActor.gen.cpp.obj"
+"D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UnrealEditor\Development\UI_Practice\UI_Practice.init.gen.cpp.obj"
+"D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UnrealEditor\Development\UI_Practice\Default.rc2.res"
+/OUT:"D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UnrealEditor\Development\UI_Practice\UnrealEditor-UI_Practice.lib"

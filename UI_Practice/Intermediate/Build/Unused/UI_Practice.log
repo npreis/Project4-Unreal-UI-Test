@@ -1,0 +1,22 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\nicho\AppData\Local\UnrealBuildTool\Log.txt
+  Building UI_PracticeEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from UI_Practice unity file: AmmoActor.cpp, UI_Practice.cpp
+  Determining max actions to execute in parallel (12 physical cores, 20 logical cores)
+    Executing up to 12 processes, one per physical core
+    Requested 1.5 GB free memory per action, 4.43 GB available: limiting max parallel actions to 2
+  Building 9 actions with 2 processes...
+  [1/9] Resource Default.rc2
+  [2/9] Compile SharedPCH.Engine.ShadowErrors.cpp
+  [3/9] Compile UI_Practice.cpp
+  [4/9] Compile AmmoActor.gen.cpp
+  [5/9] Compile UI_Practice.init.gen.cpp
+  [6/9] Compile AmmoActor.cpp
+  [7/9] Link UnrealEditor-UI_Practice.lib
+     Creating library D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UnrealEditor\Development\UI_Practice\UnrealEditor-UI_Practice.lib and object D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UnrealEditor\Development\UI_Practice\UnrealEditor-UI_Practice.exp
+  [8/9] Link UnrealEditor-UI_Practice.dll
+     Creating library D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UnrealEditor\Development\UI_Practice\UnrealEditor-UI_Practice.suppressed.lib and object D:\Dev Kits and Games Made\Unreal Projects\UI_Practice\Intermediate\Build\Win64\UnrealEditor\Development\UI_Practice\UnrealEditor-UI_Practice.suppressed.exp
+  [9/9] WriteMetadata UI_PracticeEditor.target
+  Total time in Parallel executor: 47.32 seconds
+  Total execution time: 47.66 seconds

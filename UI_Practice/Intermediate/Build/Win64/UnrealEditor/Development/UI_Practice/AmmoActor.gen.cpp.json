@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\dev kits and games made\\unreal projects\\ui_practice\\intermediate\\build\\win64\\unrealeditor\\inc\\ui_practice\\ammoactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev kits and games made\\unreal projects\\ui_practice\\intermediate\\build\\win64\\ui_practiceeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\dev kits and games made\\unreal projects\\ui_practice\\intermediate\\build\\win64\\unrealeditor\\development\\ui_practice\\definitions.ui_practice.h",
+            "d:\\dev kits and games made\\unreal projects\\ui_practice\\source\\ui_practice\\ammoactor.h",
+            "d:\\dev kits and games made\\unreal projects\\ui_practice\\intermediate\\build\\win64\\unrealeditor\\inc\\ui_practice\\ammoactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

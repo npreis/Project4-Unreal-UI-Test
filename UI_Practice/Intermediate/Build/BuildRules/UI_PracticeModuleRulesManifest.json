@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Dev Kits and Games Made\\Unreal Projects\\UI_Practice\\Source\\UI_Practice\\UI_Practice.Build.cs",
+		"D:\\Dev Kits and Games Made\\Unreal Projects\\UI_Practice\\Source\\UI_Practice.Target.cs",
+		"D:\\Dev Kits and Games Made\\Unreal Projects\\UI_Practice\\Source\\UI_PracticeEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
